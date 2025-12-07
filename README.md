@@ -73,23 +73,23 @@ https://tp.0553.abrdns.com/auto?clash
 ```
 
 # v2ray节点订阅地址
-| 名称 | 订阅地址 |
+| 节点名称 | 订阅地址 |
 |------|------|
 | **Shadowsocks** | https://sh.0553.abrdns.com/6949488d-28d8-4a6a-96a0-70571482ba00 |
 | **Snippets** | https://sn.0553.abrdns.com/6949488d-28d8-4a6a-96a0-70571482ba00 |
 | **Service** | https://se.0553.abrdns.com/6949488d-28d8-4a6a-96a0-70571482ba00 |
 | **EdgeTunnel** | https://ed.0553.abrdns.com/sub?token=0bff015445614346f906ae5af1b5660b |
-| **BPN面板** | https://tk.dls520.dpdns.org/sub/normal/392b2b29-98f0-46a3-bc06-e1b8a62c5f7d#%F0%9F%92%A6%20BPB%20Normal |
+| **BPB面板** | https://tk.dls520.dpdns.org/sub/normal/392b2b29-98f0-46a3-bc06-e1b8a62c5f7d#%F0%9F%92%A6%20BPB%20Normal |
 | **Trojan** | https://tp.0553.abrdns.com/auto |
 | **Base64** | https://64.0553.abrdns.com/6949488d-28d8-4a6a-96a0-70571482ba00 |
 | **单节点** | https://dan.0553.abrdns.com/6949488d-28d8-4a6a-96a0-70571482ba00 |
 
 # clash节点订阅地址
-| 名称 | 订阅地址 |
+| 节点名称 | 订阅地址 |
 |------|------|
 | **Shadowsocks** | https://sub.ssss.xx.kg/clash?config=https://sh.0553.abrdns.com/sub/6949488d-28d8-4a6a-96a0-70571482ba00 |
 | **Snippets** | https://sublink.eooce.com/clash?config=https://sn.0553.abrdns.com/sub/6949488d-28d8-4a6a-96a0-70571482ba00 |
 | **Service** | https://sublink.eooce.com/clash?config=https://se.0553.abrdns.com/6949488d-28d8-4a6a-96a0-70571482ba00 |
 | **EdgeTunnel** | https://ed.0553.abrdns.com/sub?token=0bff015445614346f906ae5af1b5660b |
-| **BPN面板** | https://tk.dls520.dpdns.org/sub/full-normal/392b2b29-98f0-46a3-bc06-e1b8a62c5f7d?app=clash#BPB-Full-Normal |
+| **BPB面板** | https://tk.dls520.dpdns.org/sub/full-normal/392b2b29-98f0-46a3-bc06-e1b8a62c5f7d?app=clash#BPB-Full-Normal |
 | **Trojan** | https://tp.0553.abrdns.com/auto?clash |
